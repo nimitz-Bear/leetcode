@@ -1,3 +1,4 @@
+#https://open.kattis.com/problems/leggjasaman
 import sys
 
 a = int(sys.stdin.readline())
